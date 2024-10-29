@@ -1,4 +1,4 @@
-using BlogSystem.Components;
+using BlogSystem.src.Components;
 
 var builder = WebApplication.CreateBuilder(args);
 
